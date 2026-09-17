@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- ===================== ANIMATED HEADER ===================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:111827,100:0EA5E9&height=220&section=header&text=SOURADIP%20ROY%20CHOWDHURY&fontSize=38&fontColor=E5F3FF&fontAlignY=38&desc=AI%20%7C%20Web%20Development%20%7C%20Computer%20Vision&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Profile header"/>
 
 <a href="https://git.io/typing-svg">
@@ -8,13 +10,34 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/souradip-rc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:souradiproychowdhury@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/souradiproychowdhury-cpu"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- ===================== PORTFOLIO BUTTON ===================== -->
+
+<a href="https://portfolio1-sepia-delta.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
+</a>
+
+<br/><br/>
+
+<!-- ===================== SOCIAL BUTTONS ===================== -->
+
+<a href="https://linkedin.com/in/souradip-rc">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:souradiproychowdhury@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/souradiproychowdhury-cpu">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=souradiproychowdhury-cpu&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+
+<br/><br/>
+
+<!-- Animated Neon Highlight -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━;AI+%E2%80%A2+WEB+%E2%80%A2+VISION+%E2%80%A2+INNOVATION;━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Animated neon divider"/>
 
 </div>
 
@@ -217,13 +240,7 @@ A context-aware chatbot with a web interface, designed to support interactive co
 
 ---
 
-## 🎓 Education
 
-| Qualification | Institution | Details |
-|---|---|---|
-| **B.Tech in CSE** | Techno Institute of Engineering and Management, Habra | Expected 2028 · 1st Year SGPA: **8.2** · 2nd Year SGPA: **7.2** |
-| **Higher Secondary** | Profullanagar Vidyamandir | **68%** |
-| **Secondary Education** | St. Stephens School, Habra | **88%** |
 
 ---
 
@@ -239,15 +256,22 @@ A context-aware chatbot with a web interface, designed to support interactive co
 
 I am open to collaborating on **AI applications, web development projects, open-source ideas, and innovative student-led solutions**.
 
+<!-- Portfolio Button -->
+<a href="https://portfolio1-sepia-delta.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live portfolio"/>
+</a>
+
+<br/><br/>
+
 <a href="mailto:souradiproychowdhury@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/souradip-rc"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/souradiproychowdhury-cpu"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:111827,100:080B14&height=120&section=footer" width="100%" alt="Footer"/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:111827,100:080B14&height=120&section=footer" width="100%" alt="Footer"/> 
 
-<sub>Designed with curiosity, built with code, and improved through continuous learning.</sub>
+<sub>Designed with curiosity, built with code, and improved through continuous learning.</sub> 
 
 </div>
-
