@@ -47,8 +47,7 @@ name: Souradip Roy Chowdhury
 role: CSE Student | AI & Web Developer
 location: West Bengal, India
 graduation: 2028
-1st_year_sgpa: 8.2
-2nd_year_sgpa: 7.2
+
 focus:
   - Conversational AI
   - Computer Vision
