@@ -1,71 +1,254 @@
 
 <div align="center">
 
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:111827,100:0EA5E9&height=220&section=header&text=SOURADIP%20ROY%20CHOWDHURY&fontSize=38&fontColor=E5F3FF&fontAlignY=38&desc=AI%20%7C%20Web%20Development%20%7C%20Computer%20Vision&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Profile header"/>
+<!--                    ✦ PREMIUM PROFILE HEADER ✦                -->
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Creating+responsive+and+interactive+web+experiences;Exploring+NLP%2C+Computer+Vision%2C+and+Voice+AI;Turning+real-world+problems+into+software+solutions" alt="Typing animation"/>
-</a>
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:06B6D4&height=270&section=header&text=SOURADIP%20ROY%20CHOWDHURY&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=AI%20%7C%20WEB%20DEVELOPMENT%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=18&descColor=67E8F9&animation=fadeIn"
+width="100%"
+alt="Souradip Roy Chowdhury"/>
 
 <br/>
 
-<!-- ===================== PORTFOLIO BUTTON ===================== -->
+<!-- ═════════════════════ ANIMATED IDENTITY ═════════════════════ -->
+
+<a href="https://git.io/typing-svg">
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=900&height=60&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Creating+Modern+%26+Interactive+Web+Experiences+%F0%9F%8C%90;Exploring+NLP+%7C+Computer+Vision+%7C+Voice+AI+%F0%9F%A7%A0;Turning+Real-World+Problems+Into+Digital+Solutions+%E2%9A%A1;Code+%E2%86%92+Create+%E2%86%92+Innovate+%E2%86%92+Repeat"
+alt="Animated introduction"/>
+</a>
+
+<br/><br/>
+
+<!-- ═════════════════════ PROFILE IDENTITY ═════════════════════ -->
+
+<img src="https://img.shields.io/badge/%E2%9A%A1_AI_DEVELOPER-020617?style=for-the-badge&labelColor=020617&color=06B6D4"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90_WEB_CREATOR-020617?style=for-the-badge&labelColor=020617&color=7C3AED"/>
+<img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_COMPUTER_VISION-020617?style=for-the-badge&labelColor=020617&color=C026D3"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_VOICE_AI-020617?style=for-the-badge&labelColor=020617&color=EC4899"/>
+
+<br/><br/>
+
+<!-- ══════════════════════ CORE IDENTITY ═══════════════════════ -->
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### `SOURADIP.exe`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   🧠  LEARNING        →        ⚙️  BUILDING              │
+│                                                          │
+│   💡  IDEAS           →        🚀  PRODUCTS              │
+│                                                          │
+│   🔍  PROBLEMS        →        ✨  SOLUTIONS              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+
+
+
+<!-- ═══════════════════════ FINAL STATEMENT ═══════════════════ -->
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1800&color=A78BFA&center=true&vCenter=true&width=750&height=35&lines=Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Improving"
+alt="Developer mindset"/>
+
+<br/><br/>
+
+<!-- ===================== SINGLE LINE CONNECT SECTION ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=67E8F9&center=true&vCenter=true&width=650&height=45&lines=Let's+Connect+%E2%9C%A8;Explore+%E2%80%A2+Connect+%E2%80%A2+Collaborate+%F0%9F%9A%80" alt="Animated Connect"/>
+
+<br/>
 
 <a href="https://portfilonew-t7na.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br/><br/>
-
-<!-- ===================== SOCIAL BUTTONS ===================== -->
-
-<a href="https://linkedin.com/in/souradip-rc">
-<img src="https://www.linkedin.com/in/souradip-roy-chowdhury-410a90374?utm_source=share_via&utm_content=profile&utm_medium=member_android" alt="LinkedIn"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/souradip-roy-chowdhury-410a90374?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
+<a href="https://github.com/souradipchowdhury-cpu" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
 <a href="mailto:souradiproychowdhury@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/souradiproychowdhury-cpu">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=souradiproychowdhury-cpu&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views"/>
-
-<br/><br/>
-
-<!-- Animated Neon Highlight -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━;AI+%E2%80%A2+WEB+%E2%80%A2+VISION+%E2%80%A2+INNOVATION;━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Animated neon divider"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=souradipchowdhury-cpu&label=Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+
+
+
+
+
+
+
+</div>
+
+## 🧠 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+%26+Engineering+Student;AI+%7C+Web+Development+%7C+Computer+Vision;Building+Intelligent+Digital+Experiences;Turning+Ideas+Into+Real-World+Solutions" alt="Animated Introduction"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:FF2BD6&height=3&section=header" width="85%" alt="gradient divider"/>
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-I am a **Computer Science & Engineering student** focused on building practical, intelligent, and user-friendly software products.
+### 👨‍💻 Who I Am
 
-My interests include:
+I'm a **Computer Science & Engineering student** passionate about building **intelligent, practical, and user-focused software**.
 
-- Artificial Intelligence and conversational systems
-- Natural Language Processing
-- Computer Vision and gesture-based interaction
-- React.js and responsive web development
-- Voice assistants and multilingual interfaces
-- Problem-solving through real-world projects
+I enjoy transforming ideas into real-world products by combining **AI, modern web technologies, computer vision, voice interfaces, and automation**.
 
-I enjoy transforming ideas into working prototypes with clean interfaces, useful automation, and accessible user experiences.
+My goal is to create technology that is not only powerful, but also **simple, accessible, and enjoyable to use.**
 
 </td>
-<td width="42%" valign="top">
+
+<td width="40%" align="center">
+
+```text
+╭──────────────────────╮
+│   ✦ DEVELOPER MODE   │
+├──────────────────────┤
+│                      │
+│  AI          ████████ │
+│  WEB         ███████  │
+│  CV          ██████   │
+│  VOICE       █████    │
+│  BUILD       ████████ │
+│                      │
+╰──────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ✦ Areas I'm Exploring
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0B1220?style=for-the-badge&logo=probot&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0B1220?style=for-the-badge&logo=opencv&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/NLP-0B1220?style=for-the-badge&logoColor=FF2BD6"/>
+<img src="https://img.shields.io/badge/React.js-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Voice_AI-0B1220?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Web_Development-0B1220?style=for-the-badge&logo=googlechrome&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/Automation-0B1220?style=for-the-badge&logoColor=FF2BD6"/>
+<img src="https://img.shields.io/badge/Multilingual_AI-0B1220?style=for-the-badge&logoColor=00F5FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚙️ My Development Philosophy
+
+<table>
+<tr>
+<td align="center">
+
+**01**
+💡 **Think**
+
+<br>
+
+Understand the problem
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**02**
+🧠 **Create**
+
+<br>
+
+Design the solution
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**03**
+⚡ **Build**
+
+<br>
+
+Turn ideas into products
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**04**
+🚀 **Improve**
+
+<br>
+
+Make it better
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+
+
+
+
 
 ```yaml
 print("name:Souradip Roy Chowdhury")
@@ -88,7 +271,7 @@ achievement: Internal Hackathon Winner 2025
 > **"Building technology that feels intelligent, useful, and human-centered."**
 
 ---
-
+</div>
 ## 🧰 Technology Stack
 
 <div align="center">
