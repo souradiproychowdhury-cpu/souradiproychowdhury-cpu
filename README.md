@@ -93,21 +93,13 @@ achievement: Internal Hackathon Winner 2025
 
 <div align="center">
 
-### Languages
+<img 
+  src="./technology-stack-animated.gif" 
+  alt="Souradip Roy Chowdhury - Animated Technology Stack"
+  width="100%"
+/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" alt="Programming languages"/>
-
-### Frontend & Web
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,fastapi" alt="Frontend and web technologies"/>
-
-### AI, Computer Vision & Data
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn" alt="AI and data technologies"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,googlecloud" alt="Tools and platforms"/>
+</div>
 
 </div>
 
