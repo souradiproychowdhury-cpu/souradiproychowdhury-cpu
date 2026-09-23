@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ===================== ANIMATED HEADER ===================== -->
@@ -12,7 +13,7 @@
 
 <!-- ===================== PORTFOLIO BUTTON ===================== -->
 
-<a href="https://portfolio1-sepia-delta.vercel.app/" target="_blank">
+<a href="https://portfilonew-t7na.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
 </a>
 
@@ -37,6 +38,7 @@
 <br/><br/>
 
 <!-- Animated Neon Highlight -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━;AI+%E2%80%A2+WEB+%E2%80%A2+VISION+%E2%80%A2+INNOVATION;━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Animated neon divider"/>
 
 </div>
@@ -92,15 +94,19 @@ achievement: Internal Hackathon Winner 2025
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" alt="Programming languages"/>
 
 ### Frontend & Web
+
 <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi" alt="Frontend and web technologies"/>
 
 ### AI, Computer Vision & Data
+
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn" alt="AI and data technologies"/>
 
 ### Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,googlecloud" alt="Tools and platforms"/>
 
 </div>
@@ -121,6 +127,7 @@ achievement: Internal Hackathon Winner 2025
 An AI-powered assistant inspired by Gemini and ChatGPT that allows users to ask questions, receive intelligent answers, and interact through voice in multiple languages.
 
 **Highlights**
+
 - Conversational question answering
 - Voice-based interaction
 - Multilingual response support
@@ -139,6 +146,7 @@ An AI-powered assistant inspired by Gemini and ChatGPT that allows users to ask 
 A travel planning and budgeting application designed to make trip planning simple, affordable, and personalized by combining itinerary planning with intelligent budget management.
 
 **Highlights**
+
 - Personalized itinerary planning
 - Intelligent budget allocation
 - Travel expense organization
@@ -160,6 +168,7 @@ A travel planning and budgeting application designed to make trip planning simpl
 A touchless computer interaction system that uses computer vision to recognize hand gestures and translate them into software commands.
 
 **Highlights**
+
 - Hand landmark tracking
 - Gesture-to-command mapping
 - Touchless interaction
@@ -178,6 +187,7 @@ A touchless computer interaction system that uses computer vision to recognize h
 An AI assignment assistant designed to understand academic questions and provide structured, easy-to-follow responses.
 
 **Highlights**
+
 - Academic query understanding
 - NLP-based response pipeline
 - Step-by-step explanations
@@ -240,10 +250,6 @@ A context-aware chatbot with a web interface, designed to support interactive co
 
 ---
 
-
-
----
-
 ## 🌍 Languages
 
 `Bengali — Native` · `English — Proficient`
@@ -257,21 +263,29 @@ A context-aware chatbot with a web interface, designed to support interactive co
 I am open to collaborating on **AI applications, web development projects, open-source ideas, and innovative student-led solutions**.
 
 <!-- Portfolio Button -->
-<a href="https://portfolio1-sepia-delta.vercel.app/" target="_blank">
+
+<a href="https://portfilonew-t7na.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live portfolio"/>
 </a>
 
 <br/><br/>
 
-<a href="mailto:souradiproychowdhury@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/souradip-rc"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/souradiproychowdhury-cpu"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:souradiproychowdhury@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/souradip-rc">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/souradiproychowdhury-cpu">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:111827,100:080B14&height=120&section=footer" width="100%" alt="Footer"/> 
 
-<sub>Designed with curiosity, built with code, and improved through continuous learning.</sub> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:111827,100:080B14&height=120&section=footer" width="100%" alt="Footer"/>
+
+<sub>Designed with curiosity, built with code, and improved through continuous learning.</sub>
 
 </div>
