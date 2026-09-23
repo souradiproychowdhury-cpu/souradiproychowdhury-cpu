@@ -271,8 +271,8 @@ achievement: Internal Hackathon Winner 2025
 > **"Building technology that feels intelligent, useful, and human-centered."**
 
 ---
-</div>
-## 🧰 Technology Stack
+
+
 
 <div align="center">
 
