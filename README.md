@@ -96,7 +96,7 @@ achievement: Internal Hackathon Winner 2025
 <img 
   src="./technology-stack-animated.gif" 
   alt="Souradip Roy Chowdhury - Animated Technology Stack"
-  width="100%"
+  width="80%"
 />
 
 </div>
