@@ -22,7 +22,7 @@
 <!-- ===================== SOCIAL BUTTONS ===================== -->
 
 <a href="https://linkedin.com/in/souradip-rc">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://www.linkedin.com/in/souradip-roy-chowdhury-410a90374?utm_source=share_via&utm_content=profile&utm_medium=member_android" alt="LinkedIn"/>
 </a>
 <a href="mailto:souradiproychowdhury@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -68,10 +68,10 @@ I enjoy transforming ideas into working prototypes with clean interfaces, useful
 <td width="42%" valign="top">
 
 ```yaml
-name: Souradip Roy Chowdhury
-role: CSE Student | AI & Web Developer
-location: West Bengal, India
-graduation: 2028
+print("name:Souradip Roy Chowdhury")
+print("role: CSE Student | AI & Web Developer")
+print("location: West Bengal, India")
+print("graduation: 2028")
 
 focus:
   - Conversational AI
