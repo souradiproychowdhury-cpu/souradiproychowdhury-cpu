@@ -21,7 +21,7 @@ alt="Animated introduction"/>
 
 <br/><br/>
 
-<!-- ═════════════════════ PROFILE IDENTITY ═════════════════════ -->
+
 
 
 
@@ -54,14 +54,7 @@ alt="Animated introduction"/>
 
 
 
-
-<!-- ═══════════════════════ FINAL STATEMENT ═══════════════════ -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1800&color=A78BFA&center=true&vCenter=true&width=750&height=35&lines=Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Improving"
-alt="Developer mindset"/>
-
-<br/><br/>
+<br/>
 
 <!-- ===================== SINGLE LINE CONNECT SECTION ===================== -->
 
@@ -264,7 +257,7 @@ achievement: Internal Hackathon Winner 2025
 
 ---
 
-
+</div>
 
 <div align="center">
 
