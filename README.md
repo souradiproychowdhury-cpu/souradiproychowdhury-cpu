@@ -1,12 +1,13 @@
 <div align="center">
 
 <img
-  src="./"
-  width="100%"
+  src="./profile-header-animated.gif.gif"
+  width="120%"
+  height="270"
   alt="Souradip Roy Chowdhury - AI | Web Development | Computer Vision"
 />
 
-</div>
+
 
 <br/>
 
@@ -22,12 +23,7 @@ alt="Animated introduction"/>
 
 <!-- ═════════════════════ PROFILE IDENTITY ═════════════════════ -->
 
-<img src="https://img.shields.io/badge/%E2%9A%A1_AI_DEVELOPER-020617?style=for-the-badge&labelColor=020617&color=06B6D4"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_WEB_CREATOR-020617?style=for-the-badge&labelColor=020617&color=7C3AED"/>
-<img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_COMPUTER_VISION-020617?style=for-the-badge&labelColor=020617&color=C026D3"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_VOICE_AI-020617?style=for-the-badge&labelColor=020617&color=EC4899"/>
 
-<br/><br/>
 
 <!-- ══════════════════════ CORE IDENTITY ═══════════════════════ -->
 
