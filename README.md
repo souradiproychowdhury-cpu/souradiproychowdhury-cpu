@@ -1,16 +1,12 @@
-
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-
-<!--                    ✦ PREMIUM PROFILE HEADER ✦                -->
-
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:06B6D4&height=270&section=header&text=SOURADIP%20ROY%20CHOWDHURY&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=AI%20%7C%20WEB%20DEVELOPMENT%20%7C%20COMPUTER%20VISION&descAlignY=58&descSize=18&descColor=67E8F9&animation=fadeIn"
-width="100%"
-alt="Souradip Roy Chowdhury"/>
+  src="./"
+  width="100%"
+  alt="Souradip Roy Chowdhury - AI | Web Development | Computer Vision"
+/>
+
+</div>
 
 <br/>
 
