@@ -2,7 +2,7 @@
 
 <img
   src="./profile-header-animated.gif.gif"
-  width="120%"
+  width="100%"
   height="270"
   alt="Souradip Roy Chowdhury - AI | Web Development | Computer Vision"
 />
